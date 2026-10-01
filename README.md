@@ -57,13 +57,15 @@ do not stop an attacker. For that, use a container.
 
 ### Also public
 
-Four builds from one enterprise AI interview process, kept up because the
-arguments still hold: [first-rung](https://github.com/blakehallisey-arch/first-rung)
-on why build order is the strategy,
-[compounding-order](https://github.com/blakehallisey-arch/compounding-order) as
-the case study,
+Three builds about scoping and governing enterprise agents, kept up because the
+arguments still hold:
+[first-rung](https://github.com/blakehallisey-arch/first-rung) on why build order is
+the strategy,
 [agent-blueprint-builder](https://github.com/blakehallisey-arch/agent-blueprint-builder)
 for scoping an agent out of a workflow, and
 [governed-agent-demo](https://github.com/blakehallisey-arch/governed-agent-demo),
-where you ask a question, watch the receipts cross three systems, then ask it
-again as someone else and meet a wall.
+where you ask a question, watch the receipts cross three systems, then ask it again as
+someone else and meet a wall.
+
+The case study that goes with them is live at
+[compounding-order.vercel.app](https://compounding-order.vercel.app).
